@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e75af100-b041-48e9-b03e-ee36bff9d95d": {
+      "ProjectGuid": "e75af100-b041-48e9-b03e-ee36bff9d95d",
+      "DisplayName": "ProbabilityV1.02",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "572072e4-8753-401d-abe2-7c22ad49465d": {
+      "ProjectGuid": "572072e4-8753-401d-abe2-7c22ad49465d",
+      "DisplayName": "app2",
+      "ColorIndex": 1
+    },
+    "201b4afd-9a46-4674-a0ca-316e161f72a2": {
+      "ProjectGuid": "201b4afd-9a46-4674-a0ca-316e161f72a2",
+      "DisplayName": "app22",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

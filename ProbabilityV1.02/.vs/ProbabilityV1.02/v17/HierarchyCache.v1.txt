@@ -1,0 +1,520 @@
+﻿++Solution 'ProbabilityV1.02' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:ProbabilityV1.02.sln
+++app22
+i:{00000000-0000-0000-0000-000000000000}:app22
+++Properties
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\properties\
+++References
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++App.config
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\app.config
+++Form1.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\form1.cs
+++Form1.Designer.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\form1.designer.cs
+++Form1.resx
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\form1.resx
+++Program.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\program.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\program.cs
+++AssemblyInfo.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\assemblyinfo.cs
+++Resources.resx
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\resources.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\properties\resources.resx
+++Settings.settings
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\settings.settings
+++Microsoft.CSharp
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Core
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Data
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Data.DataSetExtensions
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Deployment
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Drawing
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Net.Http
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Windows.Forms
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Windows.Forms.DataVisualization
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Xml
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++System.Xml.Linq
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:
+++Resources.Designer.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\resources.designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{201b4afd-9a46-4674-a0ca-316e161f72a2}:c:\users\alpay\source\repos\probabilityv1.02\app22\properties\settings.designer.cs
+++ProbabilityV1.02
+i:{00000000-0000-0000-0000-000000000000}:ProbabilityV1.02
+++Dependencies
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:>401
+++Imports
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:>150
+++bin
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\
+++obj
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\
+++Resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\resources\
+++Addition.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\addition.cs
+++Addition.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\addition.designer.cs
+++Addition.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\addition.resx
+++Chart.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\chart.cs
+++Databasee.accdb
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\databasee.accdb
+++graph.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\graph.cs
+++graph.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\graph.designer.cs
+++graph.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\graph.resx
+++information.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\information.cs
+++main.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\main.cs
+++menu.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\menu.cs
+++References.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\references.cs
+++References.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\references.designer.cs
+++References.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\references.resx
+++result.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\result.cs
+++result.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\result.designer.cs
+++result.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\result.resx
+++RoundButton.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\roundbutton.cs
+++Splash.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\splash.cs
+++Splash.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\splash.designer.cs
+++Splash.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\splash.resx
+++Analyzers
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:analyzers
+++Frameworks
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:frameworks
+++Packages
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:packages
+++Sdk.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\
+++Release
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\release\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\
+++ProbabilityV1.02.csproj.nuget.dgspec.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\probabilityv1.02.csproj.nuget.dgspec.json
+++ProbabilityV1.02.csproj.nuget.g.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\probabilityv1.02.csproj.nuget.g.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\probabilityv1.02.csproj.nuget.g.props
+++ProbabilityV1.02.csproj.nuget.g.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\probabilityv1.02.csproj.nuget.g.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\probabilityv1.02.csproj.nuget.g.targets
+++project.assets.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\project.assets.json
+++project.nuget.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\project.nuget.cache
+++swap.png
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\resources\swap.png
+++swap1.png
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\resources\swap1.png
+++Chart.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\chart.designer.cs
+++Chart.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\chart.resx
+++information.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\information.designer.cs
+++information.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\information.resx
+++main.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\main.designer.cs
+++main.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\main.resx
+++menu.Designer.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\menu.designer.cs
+++menu.resx
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\menu.resx
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.9\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.9\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.9\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Microsoft.NETCore.App
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\microsoft.windowsdesktop.app.windowsforms
+++HtmlAgilityPack (1.11.46)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:>412
+++System.Data.OleDb (7.0.0)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:>413
+++Microsoft.Common.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net48
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net48\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\
+++net6.0-windows
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\release\net6.0-windows\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\
+++ProbabilityDatabase1.accdb
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\probabilitydatabase1.accdb
+++Microsoft.NuGet.ImportBefore.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Sdk.WindowsDesktop.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++ref
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\ref\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\release\net6.0-windows\ref\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\ref\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\ref\
+++runtimes
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\
+++HtmlAgilityPack.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\htmlagilitypack.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\microsoft.win32.systemevents.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+++ProbabilityV1.02.deps.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\probabilityv1.02.deps.json
+++ProbabilityV1.02.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\probabilityv1.02.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\ref\probabilityv1.02.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\ref\probabilityv1.02.dll
+++ProbabilityV1.02.exe
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\probabilityv1.02.exe
+++ProbabilityV1.02.pdb
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\probabilityv1.02.pdb
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.pdb
+++ProbabilityV1.02.runtimeconfig.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\probabilityv1.02.runtimeconfig.json
+++System.Configuration.ConfigurationManager.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.configuration.configurationmanager.dll
+++System.Data.OleDb.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.data.oledb.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\system.data.oledb.dll
+++System.Diagnostics.PerformanceCounter.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.diagnostics.performancecounter.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\system.diagnostics.performancecounter.dll
+++System.Drawing.Common.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.drawing.common.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\system.drawing.common.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.security.cryptography.protecteddata.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\system.windows.extensions.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\system.windows.extensions.dll
+++TempPE
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\temppe\
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\temppe\
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\.netframework,version=v4.8.assemblyattributes.cs
+++ProbabilityV1._02.Addition.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.addition.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.addition.resources
+++ProbabilityV1._02.Chart.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.chart.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.chart.resources
+++ProbabilityV1._02.graph.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.graph.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.graph.resources
+++ProbabilityV1._02.information.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.information.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.information.resources
+++ProbabilityV1._02.main.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.main.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.main.resources
+++ProbabilityV1._02.menu.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.menu.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.menu.resources
+++ProbabilityV1._02.Properties.Resources.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.properties.resources.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.properties.resources.resources
+++ProbabilityV1._02.References.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.references.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.references.resources
+++ProbabilityV1._02.result.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.result.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.result.resources
+++ProbabilityV1._02.Splash.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1._02.splash.resources
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1._02.splash.resources
+++ProbabilityV1.02.AssemblyInfo.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.assemblyinfo.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.assemblyinfo.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\probabilityv1.02.assemblyinfo.cs
+++ProbabilityV1.02.AssemblyInfoInputs.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.assemblyinfoinputs.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.assemblyinfoinputs.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\probabilityv1.02.assemblyinfoinputs.cache
+++ProbabilityV1.02.assets.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.assets.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.assets.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\probabilityv1.02.assets.cache
+++ProbabilityV1.02.csproj.AssemblyReference.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.csproj.assemblyreference.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.csproj.assemblyreference.cache
+++ProbabilityV1.02.csproj.CoreCompileInputs.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.csproj.corecompileinputs.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.csproj.corecompileinputs.cache
+++ProbabilityV1.02.csproj.FileListAbsolute.txt
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.csproj.filelistabsolute.txt
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.csproj.filelistabsolute.txt
+++ProbabilityV1.02.csproj.GenerateResource.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.csproj.generateresource.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.csproj.generateresource.cache
+++ProbabilityV1.02.csproj.SuggestedBindingRedirects.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.csproj.suggestedbindingredirects.cache
+++ProbabilityV1.02.exe.withSupportedRuntime.config
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.exe.withsupportedruntime.config
+++ProbabilityV1.02.GeneratedMSBuildEditorConfig.editorconfig
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.generatedmsbuildeditorconfig.editorconfig
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.generatedmsbuildeditorconfig.editorconfig
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\probabilityv1.02.generatedmsbuildeditorconfig.editorconfig
+++ProbabilityV1.02.GlobalUsings.g.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net48\probabilityv1.02.globalusings.g.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.globalusings.g.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\probabilityv1.02.globalusings.g.cs
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\release\net6.0-windows\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\apphost.exe
+++ProbabilityV1.02.csproj.CopyComplete
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.csproj.copycomplete
+++ProbabilityV1.02.designer.deps.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.designer.deps.json
+++ProbabilityV1.02.designer.runtimeconfig.json
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.designer.runtimeconfig.json
+++ProbabilityV1.02.genruntimeconfig.cache
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\probabilityv1.02.genruntimeconfig.cache
+++Microsoft.NuGet.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.targets
+++Microsoft.WinFX.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.winfx.targets
+++win
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\
+++Appdata.Designer.cs.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\temppe\appdata.designer.cs.dll
+++Properties.Resources.Designer.cs.dll
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\obj\debug\net6.0-windows\temppe\properties.resources.designer.cs.dll
+++Microsoft.NET.ILLink.Tasks.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\dotnet\sdk\6.0.109\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++lib
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++ProbabilityV1.02.csproj.user
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\probabilityv1.02.csproj.user
+++Microsoft.NET.props
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++net6.0
+i:{e75af100-b041-48e9-b03e-ee36bff9d95d}:c:\users\alpay\source\repos\probabilityv1.02\probabilityv1.02\bin\debug\net6.0-windows\runtimes\win\lib\net6.0\

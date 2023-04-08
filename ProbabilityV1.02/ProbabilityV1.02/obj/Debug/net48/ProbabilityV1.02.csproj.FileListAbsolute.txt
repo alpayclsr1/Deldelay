@@ -1,0 +1,17 @@
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.csproj.AssemblyReference.cache
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.csproj.SuggestedBindingRedirects.cache
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.Addition.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.Chart.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.graph.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.information.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.main.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.menu.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.Properties.Resources.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.References.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.result.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1._02.Splash.resources
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.AssemblyInfoInputs.cache
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.AssemblyInfo.cs
+C:\Users\alpay\source\repos\ProbabilityV1.02\ProbabilityV1.02\obj\Debug\net48\ProbabilityV1.02.csproj.CoreCompileInputs.cache
